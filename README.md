@@ -1,1 +1,1 @@
-# Custom template overrides for Joomla 3.x
+# Custom Template Overrides for Joomla! 3.x
